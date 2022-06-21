@@ -1,0 +1,1 @@
+# logitravel_scraper
